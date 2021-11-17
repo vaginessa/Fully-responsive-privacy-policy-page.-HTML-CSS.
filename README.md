@@ -15,3 +15,4 @@ I am sharing this simple, readable and clear design we have made so that anyone 
 
 Please don't forget to vote too :)
 
+![](https://i.hizliresim.com/j2tfzmi.png)
